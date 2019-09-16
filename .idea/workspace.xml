@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb46d8e6-a26d-4c45-b6c9-f9b161465f73" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PUTH0ODIK4PyJjHAqQnRjN04q4" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\isdux\spring-boot-examples-master\spring-boot-mybatis\spring-boot-mybatis-xml-mulidatasource\src\main\resources\generator" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MXMApplication">
+    <configuration name="UserRoleMapperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-mybatis-xml-mulidatasource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.isdux.mapper.datasource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.isdux.mapper.datasource" />
+      <option name="MAIN_CLASS_NAME" value="com.isdux.mapper.datasource.UserRoleMapperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MXMApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-mybatis-xml-mulidatasource" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.isdux.MXMApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserRoleMapperTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb46d8e6-a26d-4c45-b6c9-f9b161465f73" name="Default Changelist" comment="" />
+      <created>1565927583180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565927583180</updated>
+      <workItem from="1565927585031" duration="6417000" />
+      <workItem from="1566807805336" duration="1855000" />
+      <workItem from="1566875613729" duration="6060000" />
+      <workItem from="1566959884238" duration="208000" />
+      <workItem from="1566960109860" duration="3218000" />
+      <workItem from="1567128673814" duration="2351000" />
+      <workItem from="1567131415907" duration="379000" />
+      <workItem from="1567645544035" duration="14605000" />
+      <workItem from="1567732111181" duration="60000" />
+      <workItem from="1567923704976" duration="38000" />
+      <workItem from="1567923895775" duration="1485000" />
+      <workItem from="1567926000841" duration="13000" />
+      <workItem from="1567926423049" duration="1138000" />
+      <workItem from="1567991535310" duration="7019000" />
+      <workItem from="1568276056059" duration="1167000" />
+      <workItem from="1568277280990" duration="1304000" />
+      <workItem from="1568278601373" duration="395000" />
+      <workItem from="1568279011824" duration="27000" />
+      <workItem from="1568279053644" duration="2066000" />
+      <workItem from="1568340872908" duration="5248000" />
+      <workItem from="1568427320926" duration="2401000" />
+      <workItem from="1568524186328" duration="2361000" />
+      <workItem from="1568543186756" duration="727000" />
+      <workItem from="1568544498479" duration="632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="spring-boot-mybatis-xml-mulidatasource" type="b2602c69:ProjectViewProjectNode" />
+        <item name="spring-boot-mybatis-xml-mulidatasource" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
